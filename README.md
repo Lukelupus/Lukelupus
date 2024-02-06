@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukelupus&label=Profile%20views&color=0e75b6&style=flat" alt="lukelupus" /> </p>
 
-- 🌱 I’m currently learning **the MERN Stack**
+- 🌱 I’m currently learning **Clean Architecture**
 
-- 🤝 I’m looking for help with **getting my first Dev job**
+- 🤝 I’m looking for new projects where I can contribute, people to talk about coding and to develop new ideas
 
 - 👨‍💻 All of my projects are available at [https://github.com/lukelupus](https://github.com/lukelupus)
 
