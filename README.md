@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukelupus&label=Profile%20views&color=0e75b6&style=flat" alt="lukelupus" /> </p>
 
-- 🌱 I’m currently learning **Clean Architecture**
+- 🌱 I’m currently learning **Clean Architecture** and all about **Chrome Extentions**!
 
-- 🤝 I’m looking for new projects where I can contribute, people to talk about coding and to develop new ideas
+- 🤝 I've worked with people from all over the globe! And i'm currently working for Zippia!
 
 - 👨‍💻 All of my projects are available at [https://github.com/lukelupus](https://github.com/lukelupus)
 
-- 💬 Ask me about **react, CSS, node, express!**
+- 💬 Ask me about **react, CSS, node, express** or about coding in general!
 
 - 📫 How to reach me **luke.boti.lorken@gmail.com**
 
